@@ -1,10 +1,3 @@
----
-title: "CodeBook"
-author: "Juan Pablo"
-date: "30/10/2020"
-output: html_document
----
-
 
 ## Tidydata CodeBook
 tidydata.txt contain the data with 180 observations (rows) and 68 variables (columns), there you can find the average (mean) for each subject and each activity in the diferents mean and standar deviation variables.
